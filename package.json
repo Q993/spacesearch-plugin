@@ -1,0 +1,27 @@
+{
+  "name": "dsh-spacesearch",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 动态 Cordis 插件：聚合 FOFA / 鹰图 Hunter / Quake / ZoomEye 网络空间测绘引擎，提供可配置 API 凭据、内置语法与漏洞挖掘模板、AI 可自动调度的统一搜索工具，为后续安全插件提供基础服务。",
+  "license": "MIT",
+  "keywords": [
+    "dsh",
+    "cordis",
+    "plugin",
+    "spacesearch",
+    "fofa",
+    "quake",
+    "hunter",
+    "zoomeye",
+    "cybersecurity",
+    "asset-discovery",
+    "vulnerability"
+  ],
+  "private": true,
+  "files": [
+    "src",
+    "docs",
+    "README.md",
+    "LICENSE",
+    "spacesearch.config.example.json"
+  ]
+}

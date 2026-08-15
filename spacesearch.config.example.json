@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "engines": {
+    "fofa": {
+      "enabled": true,
+      "creds": {
+        "email": "your-email@example.com",
+        "key": "your-fofa-api-key"
+      },
+      "base": ""
+    },
+    "hunter": {
+      "enabled": true,
+      "creds": {
+        "key": "your-hunter-api-key"
+      },
+      "base": ""
+    },
+    "quake": {
+      "enabled": true,
+      "creds": {
+        "key": "your-quake-api-key"
+      },
+      "base": ""
+    },
+    "zoomeye": {
+      "enabled": true,
+      "creds": {
+        "key": "your-zoomeye-api-key"
+      },
+      "base": ""
+    }
+  }
+}
